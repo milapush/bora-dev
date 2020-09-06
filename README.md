@@ -8,5 +8,5 @@
 
 <p>Needs a small repair - Countdown JS</p>
  
-<h4>:rocket: Deploy: </h4>
-<p>https://bora-dev.netlify.app/</p>
+#### :rocket: Deploy:
+[bora-dev.netlify.app](https://bora-dev.netlify.app)
