@@ -59,6 +59,10 @@ a:hover {
     padding: 10px;
 }
 
+h2 {
+    color: var(--color-background);
+}
+
 .div-img {
     display: flex;
     align-content: center;
@@ -155,6 +159,10 @@ small {
     background-color: #ececec;
     border-radius: 3px;
 
+}
+
+.title-popup {
+    color: #f26419;
 }
 
 #popup {
